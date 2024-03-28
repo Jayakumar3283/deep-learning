@@ -1,0 +1,11 @@
+﻿IRIS DATASET CLASSIFICATION
+
+Task: 
+1. Download the above modified Iris Dataset.
+2. Clean the data if required and perform EDA
+3. Based on the EDA do feature selection and perform dimensionality reduction without using PCA.
+4. Implement the perceptron for the above dataset using the perceptronic trick.
+5. After getting the final best separator line, plot it using matplotlib or mlextend and share the graph in your discord group.
+
+
+NOTE: YOU ARE NOT ALLOWED TO USE SKLEARN AND OTHER MACHINE LEARNING LIBRARIES, YOU ARE SUPPOSED TO HARD CODE IT.   
